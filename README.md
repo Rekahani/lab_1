@@ -19,3 +19,9 @@ untuk output ketik print()
 5. kemudian klik RUN atau bisa klik f5 maka akan seperti gambar berikut
 
 ![004.png](/gambar/004.png)
+
+6. masukan identitas user klik enter
+
+![005.png](/gambar/005.png)
+
+7. selamat biodata sudah berjalan.

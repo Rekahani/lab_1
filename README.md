@@ -7,3 +7,9 @@
 3. kemudian **save as** di folder yang kamu suka.
 
 ![002.png](/gambar/002.png)
+    
+jangan lupa untuk penamaan **"nama file.py"**
+
+4. kemudian tulis kan code sebagai berikut
+
+![003.png](/gambar/003.png)
